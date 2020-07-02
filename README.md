@@ -1,7 +1,7 @@
 # Responsive-Webpage
 A responsive web-page for a Fitness website.
 ## About
-1- It is a responsive webpage containing nice animations.
+1- It is a responsive webpage containing nice animations. <br />
 2- Contains a well authenticated contact from.
 ## Screenshots
 <img src="Web_look/web_look_1.PNG" width = "100%">
